@@ -32,7 +32,7 @@ yang dinyatakan sendiri oleh penulisnya.
 
 - [x] Kode tiap irisan jalan dan terbukti interop dengan git asli, bukan sekadar tertulis.
 - [x] `CATATAN.md` terisi satu halaman per irisan: konsep inti + kejutan/kegagalan.
-- [ ] Repo GitHub publik diterbitkan dan terverifikasi (seperti build sebelumnya).
+- [x] Repo GitHub publik diterbitkan dan terverifikasi (seperti build sebelumnya).
 
 ## Status
 
